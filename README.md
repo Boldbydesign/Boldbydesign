@@ -1,5 +1,10 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/dc1dc057-ff99-47da-8660-bd2cf7ea60f1.svg)](https://wakatime.com/@dc1dc057-ff99-47da-8660-bd2cf7ea60f1)
+
+- 🔭 I’m currently working on a few JS projects
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: just contact me througb GitHub
+- ⚡ Fun fact: a lot of what i produce never sees the light of day beyond the folder it was created in. I simply forget, move on to the next project, the next hardrive, and well the rest is gathering dust in my archives
 <!--
 **Boldbydesign/Boldbydesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
